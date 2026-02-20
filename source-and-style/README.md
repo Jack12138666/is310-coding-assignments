@@ -5,11 +5,11 @@
 ## What Web Technologies Used:
  **HTML** Used to structure the content of the page, defining the layout, headings, and elements that organize the information.
     
-    ![Screenshot of HTML](images/html.png)
+![images](images/html.png)
  **CSS** used for styling the page, including layout formatting, colors, fonts, and responsiveness.
  **JavaScript** used to provide interactivity and dynamic content on the site. 
     
-    ![Screenshot of CSS and JavaScript](images/css_and_javascript.png)
+    ![images](images/css_and_javascript.png)
 
 File :
 The page mainly consists of image files like .svg, .jpg, and .png, which serve for illustrations and other visual elements. Upon examining the page, no unfamiliar file types were observed. In general, images make up the majority of the page’s content.
