@@ -5,7 +5,7 @@
 ## What Web Technologies Used:
  **HTML** Used to structure the content of the page, defining the layout, headings, and elements that organize the information.
     
-![images](images/html.png)
+    ![images](images/html.png)
  **CSS** used for styling the page, including layout formatting, colors, fonts, and responsiveness.
  **JavaScript** used to provide interactivity and dynamic content on the site. 
     
